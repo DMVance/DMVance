@@ -5,7 +5,7 @@
 
 ---
 
-I am currently working on projects to learn Python, JavaScript and machine learning techniques, particularly in the application of Natural Language Processing.  I also continually improve my app deployment skills.
+I am currently working on projects using Natural Language Processing for analyzing large documents, Python for analyzing investment opportunities, and JavaScript with HTML and CSS to deploy apps via Flask.
 
 
 <!--
