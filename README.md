@@ -1,8 +1,6 @@
 ### Welcome!
 #### The more you know, the more you realize you know nothing. -Socrates
 
-#### “Not all those who wander are lost.” ―J.R.R. Tolkien, The Fellowship of the Ring
-
 ---
 
 I am currently working on projects using Natural Language Processing for analyzing large documents, Python for analyzing investment opportunities, and JavaScript with HTML and CSS to deploy apps via Flask.
