@@ -8,8 +8,11 @@ I am currently working on projects using Natural Language Processing for analyzi
 Please feel free to reach out to me for collaboration on any project. I'm especially interested in applications in real estate and investing.
 
 My contact info:
+
 David Vance
+
 vance06@yahoo.com
+
 859-492-5878
 
 Thanks!
