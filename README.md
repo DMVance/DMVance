@@ -9,9 +9,9 @@ Please feel free to reach out to me for collaboration on any project. I'm especi
 
 My contact info:
 
-David Vance 
-vance06@yahoo.com 
-859-492-5878 
+David Vance <br />
+vance06@yahoo.com <br />
+859-492-5878 <br />
 
 Thanks!
 
