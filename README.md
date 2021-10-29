@@ -5,6 +5,15 @@
 
 I am currently working on projects using Natural Language Processing for analyzing large documents, Python for analyzing investment opportunities, and JavaScript with HTML and CSS to deploy apps via Flask.
 
+Please feel free to reach out to me for collaboration on any project. I'm especially interested in applications in real estate and investing.
+
+My contact info:
+David Vance
+vance06@yahoo.com
+859-492-5878
+
+Thanks!
+
 
 <!--
 **DMVance/DMVance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
