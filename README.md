@@ -5,7 +5,7 @@
 
 I am currently working on projects using Natural Language Processing for analyzing large documents, Python for analyzing investment opportunities, and JavaScript with HTML and CSS to deploy apps via Flask.
 
-Please feel free to reach out to me for collaboration on any project. I'm especially interested in applications in business and investing, real estate in particular, but others as well.
+Please feel free to reach out to me for collaboration on any project. I'm especially interested in applications in business and investing, real estate in particular, as well as scientific endeavors.
 
 My contact info:
 
