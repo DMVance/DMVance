@@ -1,7 +1,4 @@
 ### Welcome!
-#### The more you know, the more you realize you know nothing. -Socrates
-
----
 
 I am currently working on projects using Natural Language Processing for analyzing large documents, Python for analyzing investment opportunities, and JavaScript with HTML and CSS to deploy apps via Flask.
 
@@ -14,6 +11,10 @@ vance06@yahoo.com <br />
 859-492-5878 <br />
 
 Thanks!
+
+---
+
+#### The more you know, the more you realize you know nothing. -Socrates
 
 
 <!--
